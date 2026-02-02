@@ -66,6 +66,7 @@ const TRANSLATIONS = {
       "نمزج الإبداع مع التكنولوجيا لتقديم حلول متطورة تبرز في المشهد التنافسي اليوم.",
 
     //Latest Projects Section
+    latestProjects: "أحدث المشاريع",
     latestProjectsTitle: "قصص نجاح حديثة",
     latestProjectsSubtitle:
       "استكشف بعض حملاتنا الأخيرة التي حققت نتائج استثنائية وخلقت تأثيراً دائمًا لعملائنا.",
